@@ -33,6 +33,9 @@ extensions = [
     'sphinx.ext.autosummary', 'autoapi.extension'
 ]
 
+autoapi_type = 'python'
+autoapi_dirs = ['../ADP_control']
+
 imgmath_image_format = 'svg'
 
 # Add any paths that contain templates here, relative to this directory.
