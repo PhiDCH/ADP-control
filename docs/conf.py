@@ -30,7 +30,7 @@ author = 'PhiDCH'
 extensions = [
     'sphinx.ext.autodoc', 'sphinx.ext.todo', 'sphinx.ext.napoleon',
     'sphinx.ext.intersphinx', 'sphinx.ext.imgmath',
-    'sphinx.ext.autosummary'
+    'sphinx.ext.autosummary', 'auotoapi.extension'
 ]
 
 imgmath_image_format = 'svg'
