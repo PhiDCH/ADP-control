@@ -18,6 +18,4 @@ formats:
 python:
    version: 3.8
    install : True
-   install:
-   - requirements: requirements.txt
  
